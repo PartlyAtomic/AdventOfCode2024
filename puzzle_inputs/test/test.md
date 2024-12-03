@@ -1,1 +1,1 @@
-This directory holds test inputs with the naming scheme: day**X**-part**X**.txt
+This directory holds test inputs with the naming scheme: day**X**(-part**X**).txt
