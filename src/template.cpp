@@ -5,6 +5,7 @@
 #include <unordered_map>
 
 using DataType = int;
+
 DataType read_data(const std::string &filename) {
     auto puzzle_filename = "puzzle_inputs/" + filename;
     std::ifstream is{puzzle_filename, std::ios_base::binary};
