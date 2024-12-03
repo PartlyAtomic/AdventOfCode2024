@@ -1,0 +1,1 @@
+Sharing inputs isn't allowed, so this directory is only populated locally with inputs with the naming scheme: day**X**-part**X**.txt
