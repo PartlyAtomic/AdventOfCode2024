@@ -86,8 +86,7 @@ bool part2() {
 
 int main() {
     auto result = part1();
-
     result &= part2();
-    return result;
+    return not result;
 }
 

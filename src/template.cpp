@@ -1,8 +1,5 @@
 #include <iostream>
-#include <vector>
 #include <fstream>
-#include <queue>
-#include <unordered_map>
 
 using DataType = int;
 
@@ -60,8 +57,7 @@ bool part2() {
 
 int main() {
     auto result = part1();
-
     result &= part2();
-    return result;
+    return not result;
 }
 
