@@ -5,6 +5,7 @@ set(CMAKE_CXX_STANDARD 20)
 
 set (SOURCE_FILES
         day1.cpp
+        day2.cpp
 )
 
 foreach(SOURCE_PATH ${SOURCE_FILES})
